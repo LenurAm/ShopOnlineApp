@@ -161,7 +161,7 @@
       "url": "ShopOnline.Web.styles.css"
     },
     {
-      "hash": "sha256-PV+Sc9B0Ul1+oUjbjE95uA5LxRVnnFeSc6s5fTEC1gA=",
+      "hash": "sha256-zPaVbJgnEGW3yRl0sYfvcWa4M9EGhY5Rzqtd+qlXXKs=",
       "url": "404.html"
     },
     {
@@ -329,5 +329,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "qrQIlysV"
+  "version": "w7WYHSrA"
 };
