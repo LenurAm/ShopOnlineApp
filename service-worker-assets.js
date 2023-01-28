@@ -317,7 +317,7 @@
       "url": "Images\/Shoes\/Shoes6.png"
     },
     {
-      "hash": "sha256-KO5E725CmhpSVn49M3TyYfzjtUbLg8AxPeP2RXvcAo0=",
+      "hash": "sha256-3E2OP+l8U\/J3bOOiJc5VYp0fjazSYwqzL8W+utNw8vw=",
       "url": "index.html"
     },
     {
@@ -329,5 +329,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "4ptEErGM"
+  "version": "fUaIndRJ"
 };
